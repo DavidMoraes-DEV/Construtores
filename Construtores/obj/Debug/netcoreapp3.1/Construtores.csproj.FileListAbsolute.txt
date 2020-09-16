@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\ProgramasCSharp\ConceitoDeConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache
