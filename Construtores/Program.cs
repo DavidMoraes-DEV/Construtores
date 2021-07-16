@@ -15,8 +15,8 @@ namespace Course
 
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
-
-            Produto p = new Produto(nome, preco, quantidade);
+            
+            Produto p = new Produto(nome, preco, quantidade); //Com um construtor fica sendo obrigatório ter os atributos para conseguir instânciar um novo objeto.
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
